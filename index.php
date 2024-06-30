@@ -3,3 +3,6 @@
 
 <?php echo "Coumputer" ?>
 <?php echo "AI" ?>
+
+<?php echo "Tubbi3sz" ?>
+<?php echo "OPEN" ?>
